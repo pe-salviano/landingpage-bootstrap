@@ -1,5 +1,7 @@
 
-<h1>💻 <a href="https://pe-salviano.github.io/landingpage-bootstrap/"> landing page Fruta&Fruto com Bootstrap </a></h1>
+<h1>
+➡<a href="https://pe-salviano.github.io/landingpage-bootstrap/"> landing page Fruta&Fruto com Bootstrap </a>
+⬅</h1>
 
 
 <h2>⚔ Tecnologias Utilizadas</h2>
