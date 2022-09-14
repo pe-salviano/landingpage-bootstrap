@@ -24,7 +24,7 @@
 ![Mobile 1](https://github.com/pe-salviano/landingpage-bootstrap/blob/main/projeto-base/src/img/layout-mobile1.png)
 ![Mobile 1](https://github.com/pe-salviano/landingpage-bootstrap/blob/main/projeto-base/src/img/layout-mobile2.png)
 
-
+<h2>💻 Tecnologias Utilizadas</h2>
 <div style="display: inline_block">
   
 <a href = "mailto:pedro.salviano.cs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
